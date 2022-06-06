@@ -3,3 +3,12 @@
 <p>Laravel JWT Authorization</p>
 
 <p>Vue.js SPA Application</p> 
+
+<p>Database: sqlite</p>
+ 
+<p>Developer: Sergiy Pozhydaev</p> 
+
+
+
+
+  
