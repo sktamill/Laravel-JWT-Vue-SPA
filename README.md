@@ -6,7 +6,7 @@
 
 <p>Database: sqlite</p>
  
-<p>Developer: Sergiy Pozhydaev</p> 
+<p>Developer: Sergiy Pozhydaev</p>   
 
 
 
