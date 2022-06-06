@@ -2,4 +2,4 @@
 
 <p>Laravel JWT Authorization</p>
 
-<p>Vue.js SPA Application</p>
+<p>Vue.js SPA Application</p> 
